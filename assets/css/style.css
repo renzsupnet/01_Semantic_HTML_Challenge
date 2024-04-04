@@ -1,13 +1,18 @@
+
+/* The universal style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
+/* Assigns the body's background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* The header style includes the font-family as well as the display:flex property to make it more readable when the screen is resized */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,14 +23,18 @@ header {
     flex-wrap: wrap;
 }
 
+
+/* Font-size for the name of the marketing firm */
 header h1 {
     font-size: 48px;
 }
 
+/* Color for the span element of the name of the marketing firm */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Stylized nav */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,15 +54,19 @@ nav ul li {
     margin-left: 25px;
 }
 
+
+/* Stylized links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Stylized paragraph */
 p {
     font-size: 16px;
 }
 
+/* The main background image at the top */
 figure {
     height: 800px;
     width: 100%;
@@ -63,6 +76,7 @@ figure {
     background-position: center;
 }
 
+/* The style that indicates whether content is displayed to the left or right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,12 +87,14 @@ figure {
     margin-left: 25px;
 }
 
+/* Stylized main */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* The stylized aside is positioned to the right */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -90,6 +106,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* The code below stylize the aside sections */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -192,6 +209,7 @@ aside {
     font-size: 36px;
 }
 
+/* The footer is centered */
 footer {
     padding: 30px;
     clear: both;
