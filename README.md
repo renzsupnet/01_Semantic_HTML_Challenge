@@ -11,7 +11,8 @@
 - added alt description for images to improve accessibility and improve seo
 - updated css to reflect semantic elements changes
 - added display:flex to accomodate change in screen size
-
+- added comments to give context clues and improve code readability
+  
 ## Credits
 
 ### W3Schools
