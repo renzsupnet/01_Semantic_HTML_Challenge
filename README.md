@@ -15,7 +15,7 @@
 - consolidated similar css properties into a singular css line
 
 ## Git Page
-[text](https://renzsupnet.github.io/01_Semantic_HTML_Challenge/)
+[Horiseon Marketing Page](https://renzsupnet.github.io/01_Semantic_HTML_Challenge/)
 
 ## Screenshot
 ![ScreenShot](./assets/images/front.png)
