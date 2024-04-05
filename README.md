@@ -12,7 +12,14 @@
 - updated css to reflect semantic elements changes
 - added display:flex to accomodate change in screen size
 - added comments to give context clues and improve code readability
-  
+- consolidated similar css properties into a singular css line
+
+## Git Page
+[text](https://renzsupnet.github.io/01_Semantic_HTML_Challenge/)
+
+## Screenshot
+![ScreenShot](./assets/images/front.png)
+
 ## Credits
 
 ### W3Schools
